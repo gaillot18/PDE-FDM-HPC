@@ -1,4 +1,4 @@
-**Analyse numérique d’équations aux dérivées partielles par différences finies et implémentation optimisée pour le calcul haute performance** version 1.1
+**Analyse numérique d’équations aux dérivées partielles par différences finies et implémentation optimisée pour le calcul haute performance** version 1.2
 
 *par Jean-Baptiste Gaillot*
 
@@ -6,12 +6,10 @@
 
 Le but de ce projet est de concevoir des schémas d’approximation numérique pour résoudre des problèmes d’équations aux dérivées partielles sur un maillage fini, en utilisant la méthode des différences finies, puis de les implémenter en différentes versions afin de comparer leurs performances.
 
-*Version 1.1 du 08-07-2025 :*
+*Version 1.2 du 30-07-2025 :*
 
 *Changements :*
-- *corrections d’erreurs mineures dans le rapport, la présentation et le code source,*
-- *amélioration de la lisibilité des cellules de code du rapport et de la présentation,*
-- *amélioration du système de numérotation des versions de chaque problème.*
+- *corrections d’erreurs mineures dans le rapport et la présentation.*
 
 Pour chaque problème, l'approche sera la suivante :
 
